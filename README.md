@@ -1,4 +1,4 @@
--=- Hi, I’m @CrazieWolf19
+-=- Hi, I’m @CrazieWolf19,
 -=- coder in C++
 -=- I’m currently learning Lua
 -=- I’m looking to collaborate on any interesting open source project
