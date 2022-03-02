@@ -1,7 +1,6 @@
--=- Hi, I’m @CrazieWolf19,
--=- coder in C++
--=- I’m currently learning Lua
--=- I’m looking to collaborate on any interesting open source project
+-=- Hi, I’m @CrazieWolf19,</br>
+-=- coder in Lua script and C++ </br>
+-=- Currently working on Minelandia </br>
 
 <!---
 CrazieWolf19/CrazieWolf19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
