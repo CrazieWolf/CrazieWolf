@@ -1,4 +1,4 @@
--=- Hi, I’m @CrazieWolf19,</br>
+-=- Hi, I’m @CrazieWolf, I'm from Brazil going to college at Auburn University</br>
 -=- coder in Lua script and C++ </br>
 -=- Currently working on Minelandia </br>
 
